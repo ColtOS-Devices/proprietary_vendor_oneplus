@@ -897,7 +897,6 @@ PRODUCT_PACKAGES += \
     uceShimService \
     IFAAService \
     WfdService \
-    com.qualcomm.location \
     ims \
     qcrilmsgtunnel \
     CneApp \
