@@ -234,6 +234,15 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/vendor/etc/fsync_db.config:$(TARGET_COPY_OUT_VENDOR)/etc/fsync_db.config \
     vendor/oneplus/oneplus3/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
     vendor/oneplus/oneplus3/proprietary/vendor/etc/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/diracvdd.bin \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b00 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b01 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b02 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b03:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b03 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b04:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b04 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b05:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b05 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b06:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b06 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.b07:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.b07 \
+    vendor/oneplus/oneplus3/proprietary/vendor/etc/firmware/widevine.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/widevine.mdt \
     vendor/oneplus/oneplus3/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
     vendor/oneplus/oneplus3/proprietary/vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.1-service.widevine.rc \
     vendor/oneplus/oneplus3/proprietary/vendor/etc/init/cnd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/cnd.rc \
